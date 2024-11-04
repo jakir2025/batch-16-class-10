@@ -1,0 +1,154 @@
+
+
+
+
+
+.jm24{
+    
+    width: 1265px;
+    height: 96px;
+    background-color:rgba(14, 243, 144, 0.55);
+    color: rgba(red, green, blue, alpha);
+}
+.well1{
+    background-color: rgba(15, 245, 92, 0.77);
+    color: rgb(7, 05, 8);
+}
+
+.jm1{
+    
+    color: rgb(227, 17, 171);
+    font-size: 45px;
+    padding-left: 10px;
+   
+}
+
+.rvr1{
+    color:#67ea2f;
+    margin-left: 50px;
+}
+.men1{
+    color: #150075;
+    margin-left: 25px;
+}
+.women1{
+    color: rgb(240, 7, 26);
+    margin-left: 25px;
+}
+.access1{
+    color: #950;
+    margin-left: 25px;
+}
+.about1{
+    color: rgb(105, 78, 225);
+    margin-left: 250px;
+}
+.cont1{
+    color: #2c3f75;
+    margin-left: 25px;
+}
+#Login1{
+    background-color: #257755;
+    color: rgb(33, 206, 56);
+    margin-left: 25px;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 7px;
+    padding-right: 15px;
+}
+#Sign1{
+    background-color: rgba(35, 77, 95, 0.7);
+    color: #7c9d35;
+    margin-left: 25px;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 7px;
+    padding-right: 15px;
+}
+.startform{
+    margin-top: 25px;
+    margin-left: 350px;
+    width: 600px;
+    height: 300px;
+    border: 1px solid #09e81c;
+}
+
+.full1{
+    margin-left: 70px;
+    color: #13db52;
+    
+}
+#full2{
+    width: 300px;
+    height: 25px;
+    margin-top: 15px;
+    margin-left: 53px;
+    border: 1px solid #060f0b;
+}
+ 
+.email1{
+    margin-left: 70px;
+    color: #ceddd1;
+}
+#email2{
+    width: 298px;
+    height: 25px;
+    margin-top: 15px;
+}
+.password1{
+    margin-left: 70px;
+    color: #f90909;
+}
+#password2{
+    width: 299px;
+    height: 25px;
+    margin-top: 15px;
+    margin-left: 59px;
+}
+.confirm1{
+    margin-left: 70px;
+    color: rgba(10, 220, 185, 0.877);
+}
+#confirm2{
+    width: 299px;
+    height: 25px;
+    margin-top: 15px;
+}
+.trems1{
+    margin-left: 200px;
+    margin-top: 15px;
+   
+    
+}
+.iagree1{
+    margin-left: 200px;
+    margin-top: 15px;
+}
+.Login0{
+    margin-left: 199px;
+    margin-top: 15px;
+    border: 1px solid #67ea2f;
+    width: 310px;
+    height: 29px;
+    background-color: #157500;
+
+}
+.raining1{
+    margin-left: 10px;
+    color: aliceblue;
+    font-size: 25px;
+}
+.off11{
+    margin-left: 10px;
+    font-size: 20px;
+    color: #e1eadf;
+}
+.btm01{
+    background-color: #67ea2f;
+    margin-left: 10px;
+    
+}
+.more1{
+    background-color: #67ea2f;
+    margin-left: 20px;
+}
